@@ -1,4 +1,5 @@
-The Odin Project Javascript 101:
+The Odin Project Javascript 101: http://www.theodinproject.com/web-development-101/javascript-basics
+
 Project Euler solutions 1-3.
 
 1. Multiples of 3 and 5:
